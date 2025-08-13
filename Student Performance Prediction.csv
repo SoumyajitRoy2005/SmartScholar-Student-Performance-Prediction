@@ -1,0 +1,151 @@
+Study_Hours,Attendance,Previous_Grade,Extracurricular,Parental_Education,Final_Score
+0,60,30,Yes,High School,35
+1,65,40,No,Bachelor,45
+2,70,50,Yes,Master,55
+3,75,60,No,High School,65
+4,80,70,Yes,Bachelor,75
+5,85,80,No,Master,85
+6,90,90,Yes,High School,95
+7,95,100,No,Bachelor,100
+8,100,85,Yes,Master,90
+9,55,75,No,High School,80
+10,60,65,Yes,Bachelor,70
+11,65,55,No,Master,60
+12,70,45,Yes,High School,50
+13,80,35,No,Bachelor,40
+14,85,25,Yes,Master,30
+15,90,70,No,High School,75
+2,92,80,Yes,Bachelor,85
+4,78,85,No,Master,90
+6,88,60,Yes,High School,65
+8,85,50,No,Bachelor,55
+3,70,55,Yes,Master,60
+7,75,65,No,High School,70
+5,80,75,Yes,Bachelor,80
+9,85,85,No,Master,90
+1,60,90,Yes,High School,95
+0,55,80,No,Bachelor,85
+12,95,100,Yes,Master,100
+14,100,95,No,High School,95
+10,98,90,Yes,Bachelor,90
+11,97,85,No,Master,85
+7,89,75,Yes,High School,75
+8,87,65,No,Bachelor,65
+6,85,55,Yes,Master,55
+4,83,45,No,High School,45
+3,81,35,Yes,Bachelor,35
+2,79,25,No,Master,25
+1,77,50,Yes,High School,50
+0,75,60,No,Bachelor,60
+5,73,70,Yes,Master,70
+9,71,80,No,High School,80
+11,69,90,Yes,Bachelor,90
+13,67,100,No,Master,100
+14,65,85,Yes,High School,85
+15,63,75,No,Bachelor,75
+12,61,65,Yes,Master,65
+10,59,55,No,High School,55
+8,57,45,Yes,Bachelor,45
+6,55,35,No,Master,35
+4,53,25,Yes,High School,25
+2,51,50,No,Bachelor,50
+1,49,60,Yes,Master,60
+3,47,70,No,High School,70
+5,45,80,Yes,Bachelor,80
+7,43,90,No,Master,90
+9,41,100,Yes,High School,100
+11,39,85,No,Bachelor,85
+13,37,75,Yes,Master,75
+15,35,65,No,High School,65
+14,33,55,Yes,Bachelor,55
+12,31,45,No,Master,45
+10,30,35,Yes,High School,35
+8,32,25,No,Bachelor,25
+6,34,50,Yes,Master,50
+4,36,60,No,High School,60
+2,38,70,Yes,Bachelor,70
+0,40,80,No,Master,80
+1,42,90,Yes,High School,90
+3,44,100,No,Bachelor,100
+5,46,85,Yes,Master,85
+7,48,75,No,High School,75
+9,50,65,Yes,Bachelor,65
+11,52,55,No,Master,55
+13,54,45,Yes,High School,45
+15,56,35,No,Bachelor,35
+14,58,25,Yes,Master,25
+12,60,50,No,High School,50
+10,62,60,Yes,Bachelor,60
+8,64,70,No,Master,70
+6,66,80,Yes,High School,80
+4,68,90,No,Bachelor,90
+2,70,100,Yes,Master,100
+1,72,85,No,High School,85
+0,74,75,Yes,Bachelor,75
+3,76,65,No,Master,65
+5,78,55,Yes,High School,55
+7,80,45,No,Bachelor,45
+9,82,35,Yes,Master,35
+11,84,25,No,High School,25
+13,86,50,Yes,Bachelor,50
+15,88,60,No,Master,60
+14,90,70,Yes,High School,70
+12,92,80,No,Bachelor,80
+10,94,90,Yes,Master,90
+8,96,100,No,High School,100
+6,98,85,Yes,Bachelor,85
+4,100,75,No,Master,75
+2,65,65,Yes,High School,65
+1,70,55,No,Bachelor,55
+0,75,45,Yes,Master,45
+3,80,35,No,High School,35
+5,85,25,Yes,Bachelor,25
+7,90,50,No,Master,50
+9,95,60,Yes,High School,60
+11,100,70,No,Bachelor,70
+13,60,80,Yes,Master,80
+15,65,90,No,High School,90
+14,70,100,Yes,Bachelor,100
+12,75,85,No,Master,85
+10,80,75,Yes,High School,75
+8,85,65,No,Bachelor,65
+6,90,55,Yes,Master,55
+4,95,45,No,High School,45
+2,100,35,Yes,Bachelor,35
+0,60,25,No,Master,25
+1,65,50,Yes,High School,50
+3,70,60,No,Bachelor,60
+5,75,70,Yes,Master,70
+7,80,80,No,High School,80
+9,85,90,Yes,Bachelor,90
+11,90,100,No,Master,100
+13,95,85,Yes,High School,85
+15,100,75,No,Bachelor,75
+14,60,65,Yes,Master,65
+12,65,55,No,High School,55
+10,70,45,Yes,Bachelor,45
+8,75,35,No,Master,35
+6,80,25,Yes,High School,25
+4,85,50,No,Bachelor,50
+2,90,60,Yes,Master,60
+1,95,70,No,High School,70
+0,100,80,Yes,Bachelor,80
+3,60,90,No,Master,90
+5,65,100,Yes,High School,100
+7,70,85,No,Bachelor,85
+9,75,75,Yes,Master,75
+11,80,65,No,High School,65
+13,85,55,Yes,Bachelor,55
+15,90,45,No,Master,45
+14,95,35,Yes,High School,35
+12,100,25,No,Bachelor,25
+10,60,50,Yes,Master,50
+8,65,60,No,High School,60
+6,70,70,Yes,Bachelor,70
+4,75,80,No,Master,80
+2,80,90,Yes,High School,90
+0,85,100,No,Bachelor,100
+1,90,85,Yes,Master,85
+3,95,75,No,High School,75
+5,100,65,Yes,Bachelor,65
+7,60,55,No,Master,55

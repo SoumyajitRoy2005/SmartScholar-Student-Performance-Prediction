@@ -1,0 +1,8 @@
+streamlit
+pickle
+numpy 
+pandas 
+matplotlib.pyplot
+smtplib
+datetime
+sqlite3
